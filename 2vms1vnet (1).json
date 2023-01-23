@@ -100,7 +100,7 @@
                             "destinationPortRanges": [],
                             "sourceAddressPrefixes": [],
                             "destinationAddressPrefixes": []
-                        },
+                        }
                     }
                 ]
             }
