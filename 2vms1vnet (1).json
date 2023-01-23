@@ -84,8 +84,10 @@
                             "destinationPortRanges": [],
                             "sourceAddressPrefixes": [],
                             "destinationAddressPrefixes": []
-                        },
-                         {
+                        }
+                        
+                    },
+                     {
                         "name": "http",
                         "properties": {
                             "protocol": "TCP",
@@ -94,13 +96,14 @@
                             "sourceAddressPrefix": "*",
                             "destinationAddressPrefix": "*",
                             "access": "Allow",
-                            "priority": 302,
+                            "priority": 310,
                             "direction": "Inbound",
                             "sourcePortRanges": [],
                             "destinationPortRanges": [],
                             "sourceAddressPrefixes": [],
                             "destinationAddressPrefixes": []
                         }
+                        
                     }
                 ]
             }
